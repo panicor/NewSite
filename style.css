@@ -1,0 +1,39 @@
+
+header{
+  text-align:center;
+  text-decoration: darkblue solid;
+  background-color: lightblue;
+}
+
+body{
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+background-color: rgb(231, 231, 162);
+}
+
+.header1{
+position: sticky;
+top:0;
+font-size: large;
+color: red;
+}
+
+nav{
+display: inline;
+text-align: right;
+}
+
+.form{
+ display: block;
+}
+label{
+  text-align: center;
+  display: block;
+}
+
+input{
+  text
+  display: block;
+}
+footer{
+position: sticky;
+}
